@@ -2,7 +2,7 @@
 
 namespace viisystem\common\frontend;
 
-class Module extends \yii\base\Module
+class Module extends \viisystem\common\Module
 {
     public $controllerNamespace = 'viisystem\common\frontend\controllers';
 
